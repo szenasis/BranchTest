@@ -1,3 +1,4 @@
+Sokadik valtozas
 EgyesFejlesztes
 ElsoFeature
 ElsoFeatureFolytatas
