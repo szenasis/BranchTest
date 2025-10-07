@@ -7,3 +7,4 @@ MasodikFeatureFolytatas
 Mainbe ujabb fejlesztes
 HarmadikFeature
 HarmadikFeatureFolytatatas
+Parhuzamos branch folyatatas
